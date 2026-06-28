@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment Variables
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# Build
+dist/
+dist-ssr/
+build/
+
+# Uploads
+backend/uploads/
+uploads/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
