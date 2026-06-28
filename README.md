@@ -7,7 +7,7 @@ An AI-powered full-stack Resume Tracker that helps users upload resumes, analyze
 
 ## Live link
 https://frontend-beta-roan-13.vercel.app/login
-backend:-  https://ai-resume-tracker-wo1g.onrender.com
+
 
 ## 📌 Overview
 
